@@ -1,0 +1,13 @@
+{
+  "name": "bezier-curve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexey Kuvshinov <kuvshinovalexey64@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "dev": "tsc --watch"
+  }
+}
